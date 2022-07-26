@@ -29,7 +29,7 @@ plugins:
 
 custom:
   client:
-   bucketName: task-2-bucket
+   bucketName: test-frontend-application
    distributionFolder: build
 
 # you can overwrite defaults here
